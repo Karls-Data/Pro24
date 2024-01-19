@@ -2,7 +2,7 @@
 
 Autor: Karl Melendez
 Fecha de Inicio: 11/02/2023
-Fecha de Finalización: 11/09/2023
+Fecha de Finalización: 1/09/2024
 
 Introducción
 El "Juego de Laberinto con Teclado" es un proyecto Python diseñado para navegar un personaje a través de un laberinto utilizando las teclas de flecha. Este juego es interactivo y basado en la terminal, empleando caracteres ASCII para la representación visual.
@@ -43,4 +43,5 @@ Se implementaron pruebas unitarias para asegurar la funcionalidad del juego.
 Se utilizó Git para el control de versiones, facilitando el seguimiento de cambios y colaboraciones.
 Conclusiones y Aprendizaje
 A lo largo del desarrollo de este juego, se aprendió sobre la manipulación de la terminal, la lectura de entradas del teclado, y la lógica de programación en Python para crear un juego interactivo. Este proyecto demuestra habilidades en programación Python y manejo de control de versiones con Git.
+
 # Pro24
